@@ -1,4 +1,4 @@
-package br.com.jerodac.lesson3;
+package br.com.emerson.lesson3;
 
 public class MinhaClasse {
 
