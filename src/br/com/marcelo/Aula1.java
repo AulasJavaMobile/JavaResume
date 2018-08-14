@@ -2,6 +2,8 @@ package br.com.marcelo;
 
 public class Aula1 {
 
+    public String nome = "Marcelo";
+
     public static void main(String[] args) {
         System.out.println("Hello World!!!");
 
